@@ -1,0 +1,25 @@
+{
+    "name": "avirizal51/easy-svg",
+    "description": "Generate SVG",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "avirizal51\\EasySvg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abhi Rijal",
+            "email": "29809542+avirizal51@users.noreply.github.com"
+        }
+    ],
+    "require": {
+      "php": ">=7.4.0",
+      "ext-simplexml": "*",
+      "ext-xmlreader": "*"
+    },
+    "require-dev": {
+      "friendsofphp/php-cs-fixer": "^3.5"
+    }
+}
