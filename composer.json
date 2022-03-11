@@ -18,8 +18,5 @@
       "php": ">=7.4.0",
       "ext-simplexml": "*",
       "ext-xmlreader": "*"
-    },
-    "require-dev": {
-      "friendsofphp/php-cs-fixer": "^3.5"
     }
 }
