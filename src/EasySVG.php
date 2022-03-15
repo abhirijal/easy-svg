@@ -1,6 +1,6 @@
 <?php
-namespace Svg;
 declare(strict_types=1);
+namespace avirizal51\EasySvg;
 
 /**
  * EasySVG - Generate SVG from PHP
